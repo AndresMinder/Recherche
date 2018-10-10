@@ -6,7 +6,7 @@ pause
 cd 
 del *.aux *.bcf *.log *.out *.xml *.gz *.toc *.bbl *.blg *.tdo
 cd sections
-del *.aux
+del *.aux *.log
 cd technical
 del *.aux
 cd ..\organizational
