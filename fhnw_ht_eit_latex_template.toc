@@ -1,0 +1,17 @@
+\babel@toc {ngerman}{}
+\babel@toc {ngerman}{}
+\babel@toc {english}{}
+\babel@toc {ngerman}{}
+\contentsline {section}{\numberline {1}Niederschlag}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Regenmelder}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Niederschlagsmesssensor}{1}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Disdrometer}{2}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Kippwaage}{2}{subsubsection.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}W\IeC {\"a}geprinzip}{2}{subsubsection.1.2.3}
+\contentsline {section}{\numberline {2}Temperatursensor}{2}{section.2}
+\contentsline {section}{\numberline {3}All-In-One}{2}{section.3}
+\contentsline {section}{\numberline {4}Datenspeicher}{2}{section.4}
+\contentsline {section}{\numberline {5}Literatur}{2}{section.5}
+\contentsline {section}{\numberline {A}Technische Daten des WS100 Disdrometers}{3}{appendix.A}
+\contentsline {section}{\numberline {B}Datenblatt Ammonit S73100}{6}{appendix.B}
+\contentsline {section}{\numberline {C}Datenblatt All-In-One}{9}{appendix.C}
